@@ -1,0 +1,17 @@
+/*
+カラーコード
+ダークブルー#09090b
+ダークアジュール#122329
+グレー#56625f
+ダークレッド#41110c
+ブラウン#8f3518
+*/
+
+html {
+   font-family: "Zen Old Mincho", serif;
+   color: #56625f;
+}
+.container {
+    width: 90%;
+    max-width: 1120px;
+}
